@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: #ffffff;
+}
+
 @theme {
   --animate-blob: blob 7s infinite;
 }
